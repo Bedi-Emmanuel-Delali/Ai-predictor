@@ -1,0 +1,17 @@
+{
+  "name": "DEEPITCH Forecast",
+  "short_name": "DEEPITCH",
+  "description": "Statistical Football Forecast Engine",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#00D4FF",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
